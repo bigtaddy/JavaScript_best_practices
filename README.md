@@ -1,2 +1,2 @@
 # JavaScript_best_practices
-www.w3.org
+https://www.w3.org/wiki/JavaScript_best_practices
